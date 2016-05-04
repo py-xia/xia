@@ -1,0 +1,6 @@
+*.pyc
+*.egg
+.idea
+.coverage
+
+xia.egg-info/

@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/briandeheus/xia.svg?branch=master)](https://travis-ci.org/briandeheus/xia)
+[![Build Status](https://travis-ci.org/py-xia/xia.svg?branch=master)](https://travis-ci.org/py-xia/xia)
 
 # xia
 A set of Tornado Classes for writing APIs with consistent response formats.
